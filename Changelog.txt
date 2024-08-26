@@ -1,14 +1,11 @@
 Changelog:
 ------------
-17.10.XX:
-- Update: Automatic cleanup of old files in Patcher folder to save space on your harddisk
-- Update: Firefox/Thunderbird Themes
-- Fix: Patcher not recognizing Dropbox correctly
-- Update: Some minor improvements to the elementary VS for Windows 7
-- Update: Several icons updated
-- Fix: MPC filetype icons correction
-- New: Support for FreeFileSync
-- Fix: Icons for SnippingTool on Windows 10
+
+24.08.02
+- Fix: Now WinTango-Patcher works normally in all editions of Windows 10 22H2 without any need to run scripts before it. It became possible by including Repacls tool and corresponding script inside the package.
+
+24.08.01
+- Fix: This new WinTango-Patcher version patches icons on Windows 10 22H2. It should also work on all previous Windows 10 versions (beginning from 19H1) which were not affected by previos v.16 patcher release. Please note: now it is necessary to run script takeownres.cmd before patcher to make it work.
 
 16.12.24:
 - Update: elementary icon theme
