@@ -16,8 +16,9 @@ Modifying your system files and applying the matching Themes will change the def
 
 ### Compatibility
 
-WinTango Patcher v24 was successfully tested on Windows 10 22H2 and Windows 11 21H2. It should also work well on other builds of these OS.
-WinTango Patcher also works on Windows 8.1 and Windows 7.
+WinTango Patcher v24 was successfully tested on Windows 10 22H2 and Windows 11 21H2. It should also work well on other builds of these OSes.
+
+WinTango Patcher works on Windows 8.1 and Windows 7.
 
 ### Download
 
@@ -25,5 +26,4 @@ Please refer to releases page https://github.com/alexsupra/WinTango-Patcher/rele
 
 ### Sources
 
-The patcher release v24 was based on v16 but not v17 which sources are located in the root of repository. The reason is that v17 seems to be broken and reason is still unknown. Thus the working sources are located inside 7z-archives on releases page.
-
+The patcher release v24 was based on v16.12.24 but not v17 which sources are located in the root of repository (these sources seems to be broken). Thus the working sources are located inside 7z-archives on releases page.
