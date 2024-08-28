@@ -12,7 +12,7 @@ The included **reloader module** will always re-modify your files if they are ov
 
 Modifying your system files and applying the matching Themes will change the default look of Windows and several 3rd Party Applications into one of these: 
 
-![Image](https://github.com/heebijeebi/WinTango-Patcher/blob/master/wiki/styles.png)
+![Image](https://github.com/alexsupra/WinTango-Patcher/blob/master/wiki/styles.png)
 
 ### Survey
 
