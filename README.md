@@ -23,7 +23,7 @@ WinTango Patcher also works on Windows 8.1 and Windows 7.
 
 Please refer to releases page https://github.com/alexsupra/WinTango-Patcher/releases to download the latest builds of installer and sources.
 
-### Notes
+### Sources
 
 The patcher release v24 was based on v16 but not v17 which sources are located in the root of repository. The reason is that v17 seems to be broken and reason is still unknown. Thus the working sources are located inside 7z-archives on releases page.
 
