@@ -1,4 +1,4 @@
-# WinTango-Patcher for Windows 7 / 8.1 / 10 (x86/x64)
+# WinTango-Patcher for Windows 7 / 8.1 / 10 / 11 (x86/x64)
 
 Bringing the look and feel of a Tango!-Styled Linux to Windows
 
@@ -14,10 +14,16 @@ Modifying your system files and applying the matching Themes will change the def
 
 ![Image](https://github.com/alexsupra/WinTango-Patcher/blob/master/wiki/styles.png)
 
-### Survey
+### Compatibility
 
-Please take a minute and tell me which icon theme(s) you are using: [To the Survey!](https://goo.gl/forms/H0gQgJ2NprgoEWLe2) Thank you!
+WinTango Patcher v24 was successfully tested on Windows 10 22H2 and Windows 11 21H2. It should also work well on other builds of these OS.
+WinTango Patcher also works on Windows 8.1 and Windows 7.
 
-### Legacy
+### Download
 
-If you are still using **Windows XP** you might want to try the [Gnome-Colors Patcher XP](https://github.com/heebijeebi/Gnome-Colors-Patcher-XP/releases).
+Please refer to releases page https://github.com/alexsupra/WinTango-Patcher/releases to download the latest builds of installer and sources.
+
+### Notes
+
+The patcher release v24 was based on v16 but not v17 which sources are located in the root of repository. The reason is that v17 seems to be broken and reason is still unknown. Thus the working sources are located inside 7z-archives on releases page.
+
