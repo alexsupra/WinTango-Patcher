@@ -16,7 +16,7 @@ Modifying your system files and applying the matching Themes will change the def
 
 ### Compatibility
 
-WinTango Patcher v24 was successfully tested on Windows 10 22H2, Windows 11 21H2, Windows Server 2019 1809. It should also work well on other builds of these OSes.
+WinTango Patcher v24 was successfully tested on Windows 10 22H2, Windows 11 24H2, Windows Server 2019 1809. It should also work well on other builds of these OSes.
 
 WinTango Patcher works on Windows 8.1 and Windows 7.
 
